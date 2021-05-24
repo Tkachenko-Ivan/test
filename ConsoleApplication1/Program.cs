@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет, Лунатики!");
             Console.WriteLine("Привет, Земляне!");
             Console.ReadKey();
         }
